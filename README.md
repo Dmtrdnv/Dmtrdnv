@@ -21,8 +21,7 @@ I'm Mik. And here I am as QA Engineer. I wanna be honest: I want to introduce my
 - 👯 I have experience in leading projects, managing people
 - 😄 Projecting for projects as passion
 - ⚡ Fun fact: yes. I can write a comedy script for the life. 
-<!-- - 📫 How to reach me: ...[![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
--->
+- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/-@Lalagenty-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lalagenty/) [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitrirdnv@gmail.com)
 
 ---
 
@@ -79,22 +78,8 @@ I'm Mik. And here I am as QA Engineer. I wanna be honest: I want to introduce my
 </div>
 ---
 
-### 🛠️ Testing Documentation and :
+### 🛠️ Testing Documentation and Artifacts:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@balabuuu-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
-
---------------------------------------------------------------
-
- <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
-
-  
-
+---
+ 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
