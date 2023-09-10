@@ -80,6 +80,13 @@ I'm Mik. And here I am as QA Engineer. I wanna be honest: I want to introduce my
 
 ### 🛠️ Testing Documentation and Artifacts:
 
+- <a href="https://github.com/Dmtrdnv/webTesting" title="webtesting" alt="webtesting"> Web Testing </a>
+- <a href="https://github.com/Dmtrdnv/mobileTesting" title="mobiletesting" alt="mobiletesting">Mobile Testing </a>
+- <a href="https://github.com/Dmtrdnv/apiTesting" title="apitesting" alt="apitesting">API Testing </a>
+- <a href="https://github.com/Dmtrdnv/proxyInTesting" title="proxytesting" alt="proxytesting">Proxy in Testing </a>
+- <a href="https://github.com/Dmtrdnv/mysqlQueries" title="databasequery" alt="databasequery">Database queries </a>
+- <a href="https://github.com/Dmtrdnv/bash" title="bash" alt="bash">Bash command processor </a>
+
 ---
  
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dmtrdnv)
