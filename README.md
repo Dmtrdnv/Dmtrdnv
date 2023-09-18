@@ -23,10 +23,8 @@ I'm Mik. And here I am as QA Engineer. I wanna be honest: I want to introduce my
 - ⚡ Fun fact: yes. I can write a comedy script for the life. 
 - 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/-@Lalagenty-lightblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lalagenty/) [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitrirdnv@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@qardnv-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/qardnv/)
 ---
-### 💼 My CV:
-<div>
-<a href="https://docs.google.com/document/d/1HmBs6x6LlQTstd1G3UsWpq78-YTdkHYe/edit?usp=drive_link&ouid=116348735586936736407&rtpof=true&sd=true" title="CV" alt="CV"> Here </a> you can find my CV
-</div>
+# 💼 My CV:
+### <a href="https://drive.google.com/file/d/1Eh8NJzxPEc2y2n1kX-I-0IuLdeMBD-_d/view?usp=sharing" title="CV" alt="CV"> Here </a> you can find my CV
 
 ---
 
