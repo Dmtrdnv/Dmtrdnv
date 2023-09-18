@@ -21,7 +21,12 @@ I'm Mik. And here I am as QA Engineer. I wanna be honest: I want to introduce my
 - 👯 I have experience in leading projects, managing people
 - 😄 Projecting for projects as passion
 - ⚡ Fun fact: yes. I can write a comedy script for the life. 
-- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/-@Lalagenty-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lalagenty/) [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitrirdnv@gmail.com)
+- 📫 Contact me: [![Telegram Badge](https://img.shields.io/badge/-@Lalagenty-lightblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Lalagenty/) [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dmitrirdnv@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@qardnv-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/qardnv/)
+---
+### 💼 My CV:
+<div>
+<a href="https://docs.google.com/document/d/1HmBs6x6LlQTstd1G3UsWpq78-YTdkHYe/edit?usp=drive_link&ouid=116348735586936736407&rtpof=true&sd=true" title="CV" alt="CV"> Here </a> you can find my CV
+</div>
 
 ---
 
@@ -29,7 +34,8 @@ I'm Mik. And here I am as QA Engineer. I wanna be honest: I want to introduce my
 <div>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="HTML5" width="40" height="40"/></a>  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS" alt="CSS" width="40" height="40"/></a>  
 </div>
 
 <div>
@@ -44,6 +50,7 @@ I'm Mik. And here I am as QA Engineer. I wanna be honest: I want to introduce my
   <img src="https://www.vectorlogo.zone/logos/trello/trello-tile.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
+  <img src="https://www.svgrepo.com/show/353597/confluence.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
   <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
@@ -76,8 +83,8 @@ I'm Mik. And here I am as QA Engineer. I wanna be honest: I want to introduce my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
----
 
+---
 ### 🛠️ Testing Documentation and Artifacts:
 
 - <a href="https://github.com/Dmtrdnv/webTesting" title="webtesting" alt="webtesting"> Web Testing </a>
